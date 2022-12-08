@@ -106,7 +106,7 @@ public class SparseVectorTesting {
 
         // build a vector with all elements equal and set one element to a
         // different value
-        {
+       {
             for (int i = 0; i < VECTOR_SIZE; i++) {
                 SparseVector<Character> v = new SparseVector<>(N, INITIAL_ELEM);
                 v.set(i, 'b');

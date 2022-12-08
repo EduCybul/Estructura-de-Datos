@@ -9,7 +9,7 @@ package dataStructures.vector;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
-public class SparseVector<T> implements Iterable<T> {
+public class SparseVector1<T> implements Iterable<T> {
 
     protected interface Tree<T> {
 
@@ -105,7 +105,7 @@ public class SparseVector<T> implements Iterable<T> {
     private int size;
     private Tree<T> root;
 
-    public SparseVector(int n, T elem) {
+    public SparseVector1(int n, T elem) {
         if(n<0){
             throw new VectorException("n no puede ser negativo bro");
         }

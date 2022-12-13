@@ -156,6 +156,14 @@ public class SparseVector<T> implements Iterable<T> {
           return a;
         }
     }
+    public int depthOf(int i){
+        if(i<size/2){
+
+        }else {
+            return 1 + depthOf(i-(size/2));
+        }
+        return 0;
+    }
     @Override
     public String toString() {
         return "SparseVector(" + size + "," + root + ")";

@@ -6,6 +6,7 @@
 
 package dataStructures.vector;
 
+import dataStructures.list.ArrayList;
 import dataStructures.list.LinkedList;
 import dataStructures.list.List;
 
@@ -102,11 +103,16 @@ public class TreeVector<T> {
     }
 
     public List<T> toList() {
-        return null;
+        List<T> lista= new ArrayList<T>();
+        int i=0;
+        while (i< (this.size) ){
+                lista.append(root.get(i));
+            i++;
+        }
+        return lista;
     }
 
     protected static <E> List<E> intercalate(List<E> xs, List<E> ys) {
-    	//to do
         return null;
     }
 

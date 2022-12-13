@@ -20,10 +20,12 @@ public class SparseVectorTesting {
 
         System.out.println("testing SparseVector constructor and size");
 
+        int depth = 2;
         vector1 = new SparseVector<>(N, INITIAL_ELEM);
         check(vector1.size() == VECTOR_SIZE, "vector has wrong size");
         check(new SparseVector<>(0, 1).size() == 1, "vector has wrong size");
 
+        check(vector1.depthOf(1)==depth,"vector distinta profundidad");
         System.out.println("DONE!\n");
 
         /*************************************************************************/

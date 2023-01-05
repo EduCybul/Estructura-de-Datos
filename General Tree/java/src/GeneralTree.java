@@ -38,11 +38,11 @@ public class GeneralTree<T> {
     public static int sum(GeneralTree<Integer> tree){
         int sum =0;
         if(tree!=null){
-            sum+=sum(tree.getHijos())+tree.getRaiz();
+            sum+=sumRec(tree.getHijos())+tree.getRaiz();
         }
         return sum;
     }
-    private static int sum(LinkedList<GeneralTree<Integer>> hijos) {
+    private static int sumRec(LinkedList<GeneralTree<Integer>> hijos) {
         int suma=0;
         Iterator<GeneralTree<Integer>> it = hijos.iterator();
         while (it.hasNext()){

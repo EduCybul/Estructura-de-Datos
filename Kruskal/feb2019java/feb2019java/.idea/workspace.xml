@@ -2,26 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7ef6caf-95d3-4298-99dd-deec9a99a217" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../General Tree/java/src/GeneralTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../General Tree/java/src/GeneralTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BinPackets/java/java/out/production/BinPackets/AVL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BinPackets/java/java/out/production/BinPackets/AVL$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BinPackets/java/java/out/production/BinPackets/AVL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BinPackets/java/java/out/production/BinPackets/AVL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BinPackets/java/java/out/production/BinPackets/Bin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BinPackets/java/java/out/production/BinPackets/Bin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BinPackets/java/java/out/production/BinPackets/BinPackingDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BinPackets/java/java/out/production/BinPackets/BinPackingDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BinPackets/java/java/out/production/BinPackets/LinearBinPacking.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BinPackets/java/java/out/production/BinPackets/LinearBinPacking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BinPackets/java/java/src/AVL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BinPackets/java/java/src/AVL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BinPackets/java/java/src/BinPackingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BinPackets/java/java/src/BinPackingDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Ford-Fulkerosn/haskell/src/DataStructures/Graph/FordFulkerson.hs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Ford-Fulkerosn/haskell/src/DataStructures/Graph/FordFulkerson.hs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Ford-Fulkerosn/java/src/dataStructures/graph/FordFulkerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Ford-Fulkerosn/java/src/dataStructures/graph/FordFulkerson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Probando _Codigo_tema2.hs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SparceVector/java/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SparceVector/java/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SparceVector/java/src/dataStructures/vector/SparseVector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SparceVector/java/src/dataStructures/vector/SparseVector1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SparceVector/java/src/dataStructures/vector/SparseVectorTesting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SparceVector/java/src/dataStructures/vector/VectorException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SparceVector/java/src/out/production/SparseVectors.src/dataStructures/vector/SparseVector$IteratorSparceVector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SparceVector/java/src/out/production/SparseVectors.src/dataStructures/vector/SparseVector$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SparceVector/java/src/out/production/SparseVectors.src/dataStructures/vector/SparseVector$Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SparceVector/java/src/out/production/SparseVectors.src/dataStructures/vector/SparseVector$Unif.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SparceVector/java/src/out/production/SparseVectors.src/dataStructures/vector/SparseVector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SparceVector/java/src/out/production/SparseVectors.src/dataStructures/vector/SparseVector1$IteratorSparceVector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SparceVector/java/src/out/production/SparseVectors.src/dataStructures/vector/SparseVector1$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SparceVector/java/src/out/production/SparseVectors.src/dataStructures/vector/SparseVector1$Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SparceVector/java/src/out/production/SparseVectors.src/dataStructures/vector/SparseVector1$Unif.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SparceVector/java/src/out/production/SparseVectors.src/dataStructures/vector/SparseVector1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SparceVector/java/src/out/production/SparseVectors.src/dataStructures/vector/SparseVectorTesting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SparceVector/java/src/out/production/SparseVectors.src/dataStructures/vector/VectorException.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672770117432</updated>
       <workItem from="1672770118820" duration="12000" />
+      <workItem from="1673976072042" duration="13000" />
     </task>
     <servers />
   </component>

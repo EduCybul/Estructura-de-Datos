@@ -6,6 +6,7 @@
 
 import dataStructures.list.List;
 
+
 public class BinPackingDemo {
     public static void main(String[] args) {
         main1(args);
@@ -21,8 +22,11 @@ public class BinPackingDemo {
         AVL avl = new AVL();
         avl.addAll(initialCapacity, weights);
         List<Bin> bins = avl.toList();
+
+
         System.out.println("Solution is: ");
         System.out.println(bins);
+
     }
 
     public static void main1(String[] args) {
